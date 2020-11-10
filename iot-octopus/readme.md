@@ -1,7 +1,7 @@
 ## My IoT-Octopus files
 ### Was ist der IoT-Octopus?
 Zunächst einmal ist der IoT-Octopus ein Arduino-kompatibler Microcontroller, der aufgrund seiner vielen Anschlüsse für Sensoren und Aktoren unglaublich flexibel einsetzbar und erweiterbar ist. Daher rührt auch der Name "Octopus".
-Der IoT-Octopus entstand aus einer Zusammenarbeit der Expertengruppe IoT des nationalen IT-Gipfels 2016 in Zusammenarbeit mit dem **Umwelt-Campus Birkenfeld** der Hochschule Trier. Als "Vater" des Octopus gilt **Guido Burger** ( https://www.tindie.com/stores/FabLab/ )
+Der IoT-Octopus entstand aus einer Zusammenarbeit der Expertengruppe IoT des nationalen IT-Gipfels 2016 mit dem **Umwelt-Campus Birkenfeld** der Hochschule Trier. Als "Vater" des Octopus gilt **Guido Burger** ( https://www.tindie.com/stores/FabLab/ )
 Weitere Infos finden Sie hier:
 https://www.umwelt-campus.de/iot-werkstatt/konzept
 
