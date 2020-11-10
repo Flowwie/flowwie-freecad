@@ -10,7 +10,7 @@ Ich arbeitete 2016 am IoT-Hackathon im Rahmen des Nationalen IT-Gipfels in Saarb
 Ich entschied mich jedoch dazu, mein originales case-Design komplett auf Open Source umzustellen und über GitHub zu veröffentlichen.
 
 ### Aktuell verfügbare Files:
--*octopuscase_V4_corona_edition.stl*
+-*octopuscase_V4_corona_edition.stl* \n
 Mein originales Case in der Open Source CAD Software **FreeCAD** nachgebaut und als qualitativ hochwertige STL exportiert. Kann frei heruntergeladen, ausgedruckt und getestet werden. 
 
 ### Anmerkungen, Freedback an:
