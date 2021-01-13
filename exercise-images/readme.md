@@ -1,0 +1,1 @@
+Bilder für die Übungsaufgaben.
