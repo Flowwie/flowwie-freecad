@@ -16,7 +16,7 @@ Dieses Repository wird von mir gepflegt, um meine Daten, die ich mit FreeCAD ers
 
 **EN**
 
-I have a Master's degree in mechanical engineering and work as a CAD-teacher and coach since 2014. In 2019 I started with FreeCAD, the Open Source free CAD software. Maybe you already know some of my videos, because I have been creating YouTube video tutorials since 2019. My English YouTube channel can be found at: https://www.youtube.com/flowwie .
+I have a master's degree in mechanical engineering and work as a CAD-teacher and coach since 2014. In 2019 I started with FreeCAD, the Open Source free CAD software. Maybe you already know some of my videos, because I have been creating YouTube video tutorials since 2019. My English YouTube channel can be found at: https://www.youtube.com/flowwie .
 
 This repository is maintained to provide you with all the FreeCAD files that I create while working on my tutorials.
 
