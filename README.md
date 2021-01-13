@@ -1,4 +1,4 @@
-## Flowwie's FreeCAD
+# Flowwie's FreeCAD
 _Herzlich Willkommen zu Flowwie's FreeCAD GitHub Repository._
 
 _Welcome to Flowwie's FreeCAD GitHub Repository._
@@ -9,7 +9,7 @@ Ich bin Maschinenbauingenieur, CAD-Trainer und Coach seit 2014 und seit Januar 2
 
 Dieses Repository wird von mir gepflegt, um meine Daten, die ich mit FreeCAD erstelle, der Öffentlichkeit zugänglich zu machen
 
-### Inhalte:
+## Inhalte:
 - test
 - test
 - test
@@ -20,7 +20,7 @@ I have a Master's degree in mechanical engineering and work as a CAD-teacher and
 
 This repository is maintained to provide you with all the FreeCAD files that I create while working on my tutorials.
 
-### Contents:
+## Contents:
 - test
 - test
 - test
