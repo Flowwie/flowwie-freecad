@@ -26,4 +26,4 @@ This repository is maintained to provide you with all the FreeCAD files that I c
 - test
 
 
-![Lizenz CC BY NC](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png“Lizenz CC BY NC“)
+![Lizenz CC BY NC](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png)
