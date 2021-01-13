@@ -27,4 +27,4 @@ This repository is maintained to provide you with all the FreeCAD files that I c
 
 License: https://creativecommons.org/licenses/by-nc/4.0/deed.de
 
-<![Lizenz CC BY NC](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png)>
+% ![Lizenz CC BY NC](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png) %
