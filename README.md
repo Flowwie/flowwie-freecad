@@ -11,7 +11,7 @@ Dieses Repository wird von mir gepflegt, um meine Daten, die ich mit FreeCAD ers
 
 ## Inhalte:
 - _demo_files_ : Enthält Beispieldateien, die ich zur Demonstration von einzelnen FreeCAD Funktionen, Features und kleineren Hilfestellungen für Anwender erstelle. 
-- test
+- _exercises_ : Enthält **CAD** Übungsaufgaben im PDF-Format, vorrangig für FreeCAD erstellt, die aber ebensogut in anderen 3D-CAD Anwendungen zum Üben genutzt werden können.
 - test
 
 **EN**
@@ -22,7 +22,7 @@ This repository is maintained to provide you with all the FreeCAD files that I c
 
 ## Contents:
 - _demo_files_ : Contains FreeCAD sample files to show various FreeCAD functions, feaures and help for FreeCAD users who had a specific problem to solve.
-- test
+- _exercises_ : Contains **CAD** exercises in PDF format, created primarily for FreeCAD, but which can be used as well in other 3D CAD applications for practice.
 - test
 
 **License:** https://creativecommons.org/licenses/by-nc/4.0/deed.de
