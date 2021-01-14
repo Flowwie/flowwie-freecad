@@ -10,7 +10,7 @@ Ich bin Maschinenbauingenieur, CAD-Trainer und Coach seit 2014 und seit Januar 2
 Dieses Repository wird von mir gepflegt, um meine Daten, die ich mit FreeCAD erstelle, der Öffentlichkeit zugänglich zu machen
 
 ## Inhalte:
-- test
+- _demo_files_ : Enthält Beispieldateien, die ich zur Demonstration von einzelnen FreeCAD Funktionen, Features und kleineren Hilfestellungen für Anwender erstelle. 
 - test
 - test
 
@@ -21,7 +21,7 @@ I have a master's degree in mechanical engineering and work as a CAD-teacher and
 This repository is maintained to provide you with all the FreeCAD files that I create while working on my tutorials.
 
 ## Contents:
-- test
+- _demo_files_ : Contains FreeCAD sample files to show various FreeCAD functions, feaures and help for FreeCAD users who had a specific problem to solve.
 - test
 - test
 
