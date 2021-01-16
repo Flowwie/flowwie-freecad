@@ -26,5 +26,5 @@ _File: fc019_DEMO_002_hexagram.FCStd_
 **EN**
 Created for a user request in FreeCAD 0.19 Part Design. You can change the dimensions of the hexagram by editing the parameters in the _hexagram_sketch_.
 
-![rounded_hexagon_image](https://github.com/Flowwie/flowwie-freecad/blob/master/demo_files/fc019_DEMO_rounded_hexagon_preview.png)
+![hexagram_image](https://github.com/Flowwie/flowwie-freecad/blob/master/demo_files/fc019_DEMO_002_hexagram_preview.png)
 </details>
