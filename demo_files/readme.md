@@ -16,3 +16,15 @@ To make the selection of the hexagon corners easier, press (V,3) or _View-> Draw
 
 ![rounded_hexagon_image](https://github.com/Flowwie/flowwie-freecad/blob/master/demo_files/fc019_DEMO_rounded_hexagon_preview.png)
 </details>
+
+<details>
+  <summary>Demo 002 - Hexagram</summary>
+<br>
+  
+_File: fc019_DEMO_002_hexagram.FCStd_
+
+**EN**
+Created for a user request in FreeCAD 0.19 Part Design. You can change the dimensions of the hexagram by editing the parameters in the _hexagram_sketch_.
+
+![rounded_hexagon_image](https://github.com/Flowwie/flowwie-freecad/blob/master/demo_files/fc019_DEMO_rounded_hexagon_preview.png)
+</details>
