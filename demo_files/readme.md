@@ -1,7 +1,7 @@
-## Demo Files
+## Flowwie's FreeCAD Demo Files
 <details>
-<summary>Rounded Hexagon (abgerundetes Rechteck)</summary>
-File: _fc019_DEMO_rounded_hexagon.FCStd_
+<summary>**DEMO 1: Rounded Hexagon**</summary>
+_File:fc019_DEMO_rounded_hexagon.FCStd_
 
 **EN**
 Created after a user request. The user wanted to create a hexagon with rounded corners. The demo file is created by a sketch in the XY plane containing a simple hexagon shape. The fillets have been created after this in the 3D view by using the fillet feature.
