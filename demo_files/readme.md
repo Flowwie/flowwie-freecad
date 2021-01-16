@@ -1,6 +1,6 @@
 ## Flowwie's FreeCAD Demo Files
 <details>
-<summary>**DEMO 1: Rounded Hexagon**</summary>
+<summary>Demo 001 - Rounded Hexagon</summary>
 _File:fc019_DEMO_rounded_hexagon.FCStd_
 
 **EN**
