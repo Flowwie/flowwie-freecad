@@ -1,5 +1,6 @@
 ## Demo Files
-### Rounded Hexagon (abgerundetes Rechteck)
+<details>
+<summary>Rounded Hexagon (abgerundetes Rechteck)</summary>
 File: _fc019_DEMO_rounded_hexagon.FCStd_
 
 **EN**
@@ -12,3 +13,4 @@ Nach einer Zuschaueranfrage erstellt. Der Zuschauer möchte ein Sechseck mit abg
 To make the selection of the hexagon corners easier, press (V,3) or _View-> Draw Style-> Wireframe_ to see a wireframe model of your 3D geometry. After the selection press (V,1) to switch back to the standard draw style in your 3D window.
 
 ![rounded_hexagon_image](https://github.com/Flowwie/flowwie-freecad/blob/master/demo_files/fc019_DEMO_rounded_hexagon_preview.png)
+</details>
