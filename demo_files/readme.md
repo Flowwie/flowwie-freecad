@@ -28,3 +28,16 @@ Created for a user request in FreeCAD 0.19 Part Design. You can change the dimen
 
 ![hexagram_image](https://github.com/Flowwie/flowwie-freecad/blob/master/demo_files/fc019_DEMO_002_hexagram_preview.png)
 </details>
+
+<details>
+  <summary>Demo 003 - Rounded Cube</summary>
+<br>
+  
+_File: fc019_DEMO_rounded_cube.FCStd_
+
+**EN**
+Created for a user request in FreeCAD 0.19 Part Design. The cube's corners are removed with a datum plane normal to the cube corner vertex.
+
+![cube_image](https://github.com/Flowwie/flowwie-freecad/blob/master/demo_files/fc019_DEMO_rounded_cube_preview.png)
+</details>
+
